@@ -4,7 +4,7 @@
 
 </p>
 
- ##Funciones y temas aplicados: :fa-code-fork:
+ ##Funciones y temas aplicados:
 
 **Variables y Arrays:**
 ```
@@ -42,7 +42,7 @@ Math.random() y Math.floor() → Generan un índice aleatorio para el sorteo.
 alert("mensaje") → Notifica errores o advertencias.
 ```
 
->##Funcionalidad :fa-cogs:
+>Funcionalidad :fa-cogs:
 Agregar amigos: Los usuarios ingresan nombres, los cuales se validan para evitar vacíos o repeticiones.
 Mostrar lista: Los nombres ingresados se muestran en una lista en la página.
 Sorteo: Se selecciona un amigo al azar de la lista y se muestra en la página.
