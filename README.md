@@ -1,10 +1,10 @@
-# :fa-user-secret:Juego-Amigo-Secreto :fa-gamepad:
+# Juego-Amigo-Secreto 
 
 <p>
 
 </p>
 
-> ##Funciones y temas aplicados: :fa-code-fork:
+ ##Funciones y temas aplicados: :fa-code-fork:
 
 **Variables y Arrays:**
 ```
@@ -40,9 +40,9 @@ Math.random() y Math.floor() → Generan un índice aleatorio para el sorteo.
 **Mensajes de alerta:**
 ```
 alert("mensaje") → Notifica errores o advertencias.
-``
+```
 
-> ##Funcionalidad :fa-cogs:
+>##Funcionalidad :fa-cogs:
 Agregar amigos: Los usuarios ingresan nombres, los cuales se validan para evitar vacíos o repeticiones.
 Mostrar lista: Los nombres ingresados se muestran en una lista en la página.
 Sorteo: Se selecciona un amigo al azar de la lista y se muestra en la página.
